@@ -3,7 +3,7 @@
 /**
  * wildcmp - Compare two strings
  * @s1: pointer to string
- * @s2: pointer to string 
+ * @s2: pointer to string
  * Return: 0
  */
 
