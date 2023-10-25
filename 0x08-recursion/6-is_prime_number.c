@@ -21,7 +21,7 @@ return (check_prime(n, 2));
  * Return: int
  */
 
-int check_prime(int n, in othrn)
+int check_prime(int n, int othrn)
 {
 
 if (othrn >= n && n > 1)
