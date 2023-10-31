@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * **alloc_grid - creates a two dimensional array 
- * @width: width 
- * @height: height 
+ * **alloc_grid - creates a two dimensional array
+ * @width: width
+ * @height: height
  *
  * Return: pointer to the created 2d array
  * or NULL (Error)
