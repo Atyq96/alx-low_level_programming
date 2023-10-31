@@ -4,9 +4,9 @@
 /**
  * *str_concat - concatenates 2 strings
  * @s1: first string
- * @s2: second string 
+ * @s2: second string
  *
- * Return: pointer to the string created (Success), or NULL 
+ * Return: pointer to the string created (Success), or NULL
  */
 
 char *str_concat(char *s1, char *s2)
