@@ -3,8 +3,8 @@
 #include "lists.h"
 
 /**
- * add_node - adds a new node at the beginning 
- * @head: double pointer to the list_t 
+ * add_node - adds a new node at the beginning
+ * @head: double pointer to the list_t
  * @str: new string to add
  *
  * Return: the address of the new element or NULL in case if failing
